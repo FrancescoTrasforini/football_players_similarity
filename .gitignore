@@ -1,0 +1,28 @@
+# Exclude directories
+Belgium-Jupiler-Pro-League/
+Brazil-Brasileirão/
+England-Championship/
+England-League-One/
+England-League-Two/
+England-Premier-League/
+France-Ligue-1/
+Germany-2-Bundesliga/
+Germany-Bundesliga/
+Italy-Serie-A/
+Netherlands-Eredivisie/
+Portugal-Liga-Portugal/
+Scotland-Premiership/
+Spain-LaLiga/
+Turkey-SuperLig/
+USA-Major-League-Soccer/
+
+# Exclude specific files
+3d tensor pass structure.rtf
+embedder.ipynb
+aerial.csv
+open-play-crosses.csv
+open-play-passes.csv
+open-play-shots.csv
+recoveries.csv
+tackles.csv
+take-on.csv
