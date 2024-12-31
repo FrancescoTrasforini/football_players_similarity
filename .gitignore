@@ -1,4 +1,7 @@
 # Exclude directories
+_Heatmaps/
+_normalized-heatmaps/
+_Sparse-representations/
 Belgium-Jupiler-Pro-League/
 Brazil-Brasileirão/
 England-Championship/
@@ -18,11 +21,18 @@ USA-Major-League-Soccer/
 
 # Exclude specific files
 3d tensor pass structure.rtf
-embedder.ipynb
 aerial.csv
+carries.csv
 open-play-crosses.csv
 open-play-passes.csv
 open-play-shots.csv
 recoveries.csv
 tackles.csv
 take-on.csv
+Experiments.rtf
+minutes-played.csv
+minutes-played_filtered.csv
+normalization-question.rtf
+_Heatmaps/test.csv
+_Heatmaps/train.csv
+_Heatmaps/validation.csv

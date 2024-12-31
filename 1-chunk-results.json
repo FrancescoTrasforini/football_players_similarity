@@ -1,0 +1,266 @@
+[
+    {
+        "hyperparameters": {
+            "learning_rate": 0.0001,
+            "bottleneck_size": 32,
+            "optimizer": "Adam",
+            "loss_function": "MSELoss",
+            "batch_size": 64,
+            "weight_decay": 0,
+            "dropout_rate": 0
+        },
+        "metrics": {
+            "train_loss": 0.025867689584552402,
+            "val_loss": 0.02510818493153368,
+            "epochs_run": 5,
+            "avg_mrr": 0.2813175348386616,
+            "avg_top_1": 0.14084507042253522,
+            "avg_top_3": 0.3380281690140845,
+            "avg_top_5": 0.4460093896713615,
+            "avg_top_10": 0.6666666666666666
+        },
+        "timestamp": "2024-12-30 10:34:13"
+    },
+    {
+        "hyperparameters": {
+            "learning_rate": 0.0001,
+            "bottleneck_size": 32,
+            "optimizer": "SGD",
+            "loss_function": "MSELoss",
+            "batch_size": 64,
+            "weight_decay": 0,
+            "dropout_rate": 0
+        },
+        "metrics": {
+            "train_loss": 0.09355278753898513,
+            "val_loss": 0.09298157691955566,
+            "epochs_run": 5,
+            "avg_mrr": 0.15389559579700424,
+            "avg_top_1": 0.07511737089201878,
+            "avg_top_3": 0.1596244131455399,
+            "avg_top_5": 0.26291079812206575,
+            "avg_top_10": 0.39436619718309857
+        },
+        "timestamp": "2024-12-30 10:34:38"
+    },
+    {
+        "hyperparameters": {
+            "learning_rate": 0.0001,
+            "bottleneck_size": 64,
+            "optimizer": "Adam",
+            "loss_function": "MSELoss",
+            "batch_size": 64,
+            "weight_decay": 0,
+            "dropout_rate": 0
+        },
+        "metrics": {
+            "train_loss": 0.025809455085808123,
+            "val_loss": 0.026689300402289347,
+            "epochs_run": 5,
+            "avg_mrr": 0.26677472240852523,
+            "avg_top_1": 0.13615023474178403,
+            "avg_top_3": 0.30985915492957744,
+            "avg_top_5": 0.4225352112676056,
+            "avg_top_10": 0.6291079812206573
+        },
+        "timestamp": "2024-12-30 10:35:04"
+    },
+    {
+        "hyperparameters": {
+            "learning_rate": 0.0001,
+            "bottleneck_size": 64,
+            "optimizer": "SGD",
+            "loss_function": "MSELoss",
+            "batch_size": 64,
+            "weight_decay": 0,
+            "dropout_rate": 0
+        },
+        "metrics": {
+            "train_loss": 0.09316888546020212,
+            "val_loss": 0.09285492769309453,
+            "epochs_run": 5,
+            "avg_mrr": 0.19626462478575155,
+            "avg_top_1": 0.09859154929577464,
+            "avg_top_3": 0.2300469483568075,
+            "avg_top_5": 0.323943661971831,
+            "avg_top_10": 0.4788732394366197
+        },
+        "timestamp": "2024-12-30 10:35:29"
+    },
+    {
+        "hyperparameters": {
+            "learning_rate": 1e-05,
+            "bottleneck_size": 32,
+            "optimizer": "Adam",
+            "loss_function": "MSELoss",
+            "batch_size": 64,
+            "weight_decay": 0,
+            "dropout_rate": 0
+        },
+        "metrics": {
+            "train_loss": 0.03887477842435031,
+            "val_loss": 0.03719932798828397,
+            "epochs_run": 5,
+            "avg_mrr": 0.2520157984946717,
+            "avg_top_1": 0.14084507042253522,
+            "avg_top_3": 0.27699530516431925,
+            "avg_top_5": 0.4225352112676056,
+            "avg_top_10": 0.5774647887323944
+        },
+        "timestamp": "2024-12-30 10:35:54"
+    },
+    {
+        "hyperparameters": {
+            "learning_rate": 1e-05,
+            "bottleneck_size": 32,
+            "optimizer": "SGD",
+            "loss_function": "MSELoss",
+            "batch_size": 64,
+            "weight_decay": 0,
+            "dropout_rate": 0
+        },
+        "metrics": {
+            "train_loss": 0.09847278452255356,
+            "val_loss": 0.09917140113455909,
+            "epochs_run": 5,
+            "avg_mrr": 0.17276995305164317,
+            "avg_top_1": 0.07981220657276995,
+            "avg_top_3": 0.19248826291079812,
+            "avg_top_5": 0.28169014084507044,
+            "avg_top_10": 0.4413145539906103
+        },
+        "timestamp": "2024-12-30 10:36:19"
+    },
+    {
+        "hyperparameters": {
+            "learning_rate": 1e-05,
+            "bottleneck_size": 64,
+            "optimizer": "Adam",
+            "loss_function": "MSELoss",
+            "batch_size": 64,
+            "weight_decay": 0,
+            "dropout_rate": 0
+        },
+        "metrics": {
+            "train_loss": 0.03707574727669568,
+            "val_loss": 0.035782000316040855,
+            "epochs_run": 5,
+            "avg_mrr": 0.24520083463745435,
+            "avg_top_1": 0.10328638497652583,
+            "avg_top_3": 0.3051643192488263,
+            "avg_top_5": 0.4131455399061033,
+            "avg_top_10": 0.6384976525821596
+        },
+        "timestamp": "2024-12-30 10:36:45"
+    },
+    {
+        "hyperparameters": {
+            "learning_rate": 1e-05,
+            "bottleneck_size": 64,
+            "optimizer": "SGD",
+            "loss_function": "MSELoss",
+            "batch_size": 64,
+            "weight_decay": 0,
+            "dropout_rate": 0
+        },
+        "metrics": {
+            "train_loss": 0.10031519578376287,
+            "val_loss": 0.10085985348338172,
+            "epochs_run": 5,
+            "avg_mrr": 0.1641757955138237,
+            "avg_top_1": 0.0892018779342723,
+            "avg_top_3": 0.16901408450704225,
+            "avg_top_5": 0.2535211267605634,
+            "avg_top_10": 0.4225352112676056
+        },
+        "timestamp": "2024-12-30 10:37:10"
+    },
+    {
+        "hyperparameters": {
+            "learning_rate": 1e-06,
+            "bottleneck_size": 32,
+            "optimizer": "Adam",
+            "loss_function": "MSELoss",
+            "batch_size": 64,
+            "weight_decay": 0,
+            "dropout_rate": 0
+        },
+        "metrics": {
+            "train_loss": 0.08075100267437142,
+            "val_loss": 0.08053688811404365,
+            "epochs_run": 5,
+            "avg_mrr": 0.13887957373872867,
+            "avg_top_1": 0.06103286384976526,
+            "avg_top_3": 0.15492957746478872,
+            "avg_top_5": 0.2300469483568075,
+            "avg_top_10": 0.39906103286384975
+        },
+        "timestamp": "2024-12-30 10:37:35"
+    },
+    {
+        "hyperparameters": {
+            "learning_rate": 1e-06,
+            "bottleneck_size": 32,
+            "optimizer": "SGD",
+            "loss_function": "MSELoss",
+            "batch_size": 64,
+            "weight_decay": 0,
+            "dropout_rate": 0
+        },
+        "metrics": {
+            "train_loss": 0.09754323287748955,
+            "val_loss": 0.09827803536539986,
+            "epochs_run": 5,
+            "avg_mrr": 0.16349020046203144,
+            "avg_top_1": 0.07981220657276995,
+            "avg_top_3": 0.17370892018779344,
+            "avg_top_5": 0.26291079812206575,
+            "avg_top_10": 0.4225352112676056
+        },
+        "timestamp": "2024-12-30 10:38:01"
+    },
+    {
+        "hyperparameters": {
+            "learning_rate": 1e-06,
+            "bottleneck_size": 64,
+            "optimizer": "Adam",
+            "loss_function": "MSELoss",
+            "batch_size": 64,
+            "weight_decay": 0,
+            "dropout_rate": 0
+        },
+        "metrics": {
+            "train_loss": 0.07845427893416983,
+            "val_loss": 0.07628300289312999,
+            "epochs_run": 5,
+            "avg_mrr": 0.20922945077874655,
+            "avg_top_1": 0.107981220657277,
+            "avg_top_3": 0.24413145539906103,
+            "avg_top_5": 0.323943661971831,
+            "avg_top_10": 0.48826291079812206
+        },
+        "timestamp": "2024-12-30 10:38:26"
+    },
+    {
+        "hyperparameters": {
+            "learning_rate": 1e-06,
+            "bottleneck_size": 64,
+            "optimizer": "SGD",
+            "loss_function": "MSELoss",
+            "batch_size": 64,
+            "weight_decay": 0,
+            "dropout_rate": 0
+        },
+        "metrics": {
+            "train_loss": 0.10090347526358887,
+            "val_loss": 0.1015327853106317,
+            "epochs_run": 5,
+            "avg_mrr": 0.19168715999701913,
+            "avg_top_1": 0.09859154929577464,
+            "avg_top_3": 0.20187793427230047,
+            "avg_top_5": 0.323943661971831,
+            "avg_top_10": 0.4835680751173709
+        },
+        "timestamp": "2024-12-30 10:38:51"
+    }
+]
